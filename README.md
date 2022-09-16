@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! 👋
+          
+           I am Prince 😀
 
  Passionate about studying how to improve performance. Seeking to leverage data analytical skills to improve corporate performance as a data analyst.Proven ability to understand customer requirements and translate into actionable project plan.
 
