@@ -3,14 +3,19 @@
 <!--
 **princeraj2310/princeraj2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Passionate about studying how to improve performance. Seeking to leverage data analytical skills to improve corporate performance as a data analyst.Proven ability to understand customer requirements and translate into actionable project plan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Having Advanced understanding of statistical, algebraic and other analytical techniques coupled with various programming languages and highly motivated to learn,grow and excel in Data analyst Industry.
+
+Solid understanding of exploratory data analysis using SQL,Python language
+
+Good understanding of statistical, algebraic, and other analytical techniques.
+
+
+I also love working with different technologies & platforms and my current favorite ones are-
+
+❤️ SQL / MySQL Workbench
+❤️ Power Bi
+❤️ Advance Excel
+❤️ Python
+❤️ Snowflake
